@@ -1,0 +1,9 @@
+<svg width="1440" height="717" fill="none">
+  <path d="M694 463C536 753 165 736 0 692V0h1440v197c-183-32-587-23-746 266z" fill="url(#paint0_angular)"/>
+  <defs>
+    <radialGradient id="paint0_angular" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 265.033 -546.145 0 720 452)">
+      <stop stop-color="#46A896"/>
+      <stop offset="1" stop-color="#F938DA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

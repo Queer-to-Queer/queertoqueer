@@ -1,0 +1,28 @@
+Da pagina Team
+
+<?php foreach($team as $person) { ?>
+        <div class="single">
+            <div class="social">
+                <img src="<?php echo url_for('/assets/uploads/img/team/'.$person->img_path);?>"
+                    alt="<?php echo $person->nome.'-'.$person->cognome;?>">
+                <div class="icons">
+                    <?php if($person->ig != '') {?>
+                    <a href="https://www.instagram.com/<?php echo $person->ig?>/" target="_blank">
+                        <ion-icon name="logo-instagram"></ion-icon>
+                    </a>
+                    <?php }?>
+                    <?php if($person->fb != '') {?>
+                    <a href="https://www.facebook.com/<?php echo $person->fb?>" target="_blank">
+                        <ion-icon name="logo-facebook"></ion-icon>
+                    </a>
+                    <?php }?>
+                </div>
+            </div>
+            <div class="info">
+                <h2><?php echo $person->nome.' '.$person->cognome;?></h2>
+                <h4><?php echo $person->title;?></h4>
+                <p><?php echo $person->descr;?></p>
+                <blockquote><i><?php echo $person->quote;?></i></blockquote>
+            </div>
+        </div>
+<?php } ?>

@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "cover":"queer_to_queer_home.png",
+        "titolo":"Queer to Queer con Giulio & Nicola: la storia di Gift",
+        "blog":"Sogica.org",
+        "data":"13 Marzo 2020",
+        "descr":"Giulio & Nicola di GaGa (Vicenza) condividono con noi la loro nuova avventura e geniale idea: Queer to Queer",
+        "link":"http://www.sogica.org/it/life_stories/queer-to-queer-con-giulio-nicola-la-storia-di-gift/"
+    },{
+
+        "id":2,
+        "cover":"il-grande-colibri.jpeg",
+        "titolo":"Un podcast per raccontare le minoranze LGBT",
+        "blog":"Il grande colibrì",
+        "data":"16 Marzo 2020",
+        "descr":"“Queer to Queer, oltre i soliti cliché“: è online dal 14 marzo il primo episodio di un podcast che vuole dare voce alle minoranze nel mondo LGBTQIA (lesbiche, gay, bisessuali, trans, queer, intersex e asessuali).",
+        "link":"https://www.ilgrandecolibri.com/queer-to-queer-un-podcast-per-raccontare-le-minoranze-lgbt/"
+
+    },{
+        "id":3,
+        "cover":"queer_to_queer_home.png",
+        "titolo":"Queer to Queer, oltre i soliti clichè",
+        "blog":"MaiMa",
+        "data":"30 Marzo 2020",
+        "descr":"Queer to Queer è un bellissimo progetto nato per dar voce alle minoranze LGBT+, tramite dei podcast Giulio e Nicola ci raccontano le storie di cui non parla nessuno, permettendoci di capire cosa significa essere minoranza nella minoranza.",
+        "link":"https://maima.online/queer-to-queer-oltre-i-soliti-cliche/"
+    
+    }
+]

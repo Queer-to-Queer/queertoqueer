@@ -1,0 +1,66 @@
+[{
+        "id": 1,
+        "nome": "Giulio",
+        "cognome": "Farronato",
+        "title": "Co-creator del progetto",
+        "descr": "Laureato in giurisprudenza, diritti umani e migrazioni i suoi temi di interesse. Attivista e responsabile dello sportello migranti LGBT+ per l’associazione G.A.G.A. Vicenza.",
+        "quote": "Vorrebbe che tutto fosse sempre perfetto, ci ha rinunciato e da poco il suo mantra è “fatto è meglio che perfetto”. ",
+        "ig": "giufarro",
+        "fb": "giulio.farronato"
+    }, {
+        "id": 2,
+        "nome": "Nicola",
+        "cognome": "Noro",
+        "title": "Co-creator del progetto",
+        "descr": "Insegnante di Lingua dei segni italiana e LIS performer. Attivista. Vicepresidente e responsabile dello sportello migranti LGBT+ dell’associazione G.A.G.A. Vicenza.",
+        "quote": "Vorrebbe tutto e subito. Ha pochissima pazienza, prima si butta e poi ci pensa.",
+        "ig": "nicknors",
+        "fb": "nicola.noro"
+    }, {
+        "id": 3,
+        "nome": "Agata",
+        "cognome": "Treccani",
+        "title": "Graphic Designer",
+        "descr": "Artista visivo, attenta osservatrice dei “rapporti” nella società contemporanea. Creatore del progetto @artworprofileproject.",
+        "quote": "C’è bisogno di qualcosa? L’ha già fatta. Finisce un lavoro ancora prima di cominciarlo.",
+        "ig": "agatatreccani",
+        "fb": ""
+    }, {
+        "id": 4,
+        "nome": "Francesco",
+        "cognome": "Luppi",
+        "title": "Web Designer",
+        "descr": "Appassionato del web e di tutto ciò che è tecnologia all'avanguardia, attivista LGBT+ e ballerino da così tanti anni che ha perso il conto.",
+        "quote": "Prende la vita con calma. Prima di fare qualcosa valuta tutte le opzioni e poi si butta a capofitto in una.",
+        "ig": "francescoluppi",
+        "fb": "francescoL1996"
+    }, {
+        "id": 5,
+        "nome": "Alex",
+        "cognome": "Quargnali",
+        "title": "Musiche e suoni",
+        "descr": "Laureato in arti e linguaggi della comunicazione. Appassionato di arte, musica e grafica. Viaggiando ha trovato l’ispirazione per la sigla composta per il podcast, una fusione tra jazz ed elettronica moderna.",
+        "quote": "Non è mai abbastanza bravo. C’è sempre qualcosa del suo lavoro che non gli piace.",
+        "ig": "alex.quargnali",
+        "fb": "alex.quargnali"
+    }, {
+        "id": 6,
+        "nome": "Nicole",
+        "cognome": "Zavagnin",
+        "title": "Copy consultant episodi",
+        "descr": "Content creator, social media manager e mailchimp expert. Ma anche radio speaker e Japan lover.",
+        "quote": "Ancora non sappiamo come riesca a fare tutto quello che fa, ma sì, l’abbiamo conquista e ha scelto di dormire ancora meno per dare una mano anche noi.",
+        "ig": "nicolespring",
+        "fb": "nicole.zavagnin"
+    },
+    {
+        "id": 7,
+        "nome": "Valerio",
+        "cognome": "Barbini",
+        "title": "Content Contributor",
+        "descr": "Attivista, per anni in Arcigay, ha fatto politica e poi si è chiuso in cucina. Adesso è impegnato con l'associazione Il Grande colibrì.",
+        "quote": "Tu gli parli di un progetto o di una persona e lui ti trova i contatti.",
+        "ig": "valeriobar",
+        "fb": "valerio.barbini"
+    }
+]
